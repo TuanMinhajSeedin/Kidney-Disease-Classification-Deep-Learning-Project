@@ -13,3 +13,17 @@
 11.Prediction Pipeline & User App Creation
 12.Docker
 13.Final CI/CD Deployment on AWS
+
+
+###################################### PROJECT FILE UPDATE ######################################
+
+1.Update config.yaml
+2.Update Secret.yaml #Any Credentials
+3.Update params.yaml
+4.Update the entity
+5.Update the configuration manager in src config
+6.Update the components    #Data Ingesion, model preparation, model trainer, model evaluation
+7.Update the pipeline      #training and prediction pipeline
+8.Update the main.py    #This will be the end point
+9.Update the dvc.yaml   #Tracking pipeline
+10.Update the app.py    #route for user app
