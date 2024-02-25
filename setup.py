@@ -8,7 +8,7 @@ __version__="0.0.0"
 
 REPO_NAME='Kidney-Disease-Classification-Deep-Learning-Project'
 AUTHOR_USER_NAME='TuanMinhajSeedin'
-SRC_REPO='cnn-classifier'
+SRC_REPO='cnn_classifier'
 AUTHOR_EMAIL='tuanminhajseedin@gmail.com'
 
 setuptools.setup(
