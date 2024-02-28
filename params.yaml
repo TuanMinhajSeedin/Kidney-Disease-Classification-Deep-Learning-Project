@@ -2,7 +2,7 @@ AUGMENTATION: True
 IMAGE_SIZE: [224,224,3]
 BATCH_SIZE: 16
 INCLUDE_TOP: False   #Removing fully connected layers and taking only convolution layers
-EPOCHS: 3
+EPOCHS: 2
 CLASSES: 2
 WEIGHTS: imagenet   #Because of pre trained model
-LEARNING_RATE: 0.01
+LEARNING_RATE: 0.03
