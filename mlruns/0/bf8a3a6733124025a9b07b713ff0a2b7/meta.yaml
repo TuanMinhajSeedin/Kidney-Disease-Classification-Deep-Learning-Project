@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Personal%20Project/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/bf8a3a6733124025a9b07b713ff0a2b7/artifacts
+end_time: 1709108706752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf8a3a6733124025a9b07b713ff0a2b7
+run_name: invincible-shad-9
+run_uuid: bf8a3a6733124025a9b07b713ff0a2b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709108692524
+status: 3
+tags: []
+user_id: tuanm

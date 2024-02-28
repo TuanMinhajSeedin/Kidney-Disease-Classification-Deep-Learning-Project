@@ -34,7 +34,16 @@ Now,
 open up you local host and port
 ```
 
+### Dagshub
+[dagshub](https://dagshub.com/)
 
+MLFLOW_TRACKING_URI="https://dagshub.com/TuanMinhajSeedin/Kidney-Disease-Classification-Deep-Learning-Project.mlflow"\
+MLFLOW_TRACKING_USERNAME="github-user-name"\
+MLFLOW_TRACKING_PASSWORD="mlflow-password"
 
+```bash
+Run this as environment variables
 
-
+export MLFLOW_TRACKING_URI=https://dagshub.com/TuanMinhajSeedin/Kidney-Disease-Classification-Deep-Learning-Project.mlflow
+export MLFLOW_TRACKING_USERNAME=TuanMinhajSeedin
+export MLFLOW_TRACKING_PASSWORD=35b7f145aab69435818d9c21eec1d9529edadbcb

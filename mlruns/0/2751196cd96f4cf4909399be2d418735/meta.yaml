@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Personal%20Project/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/2751196cd96f4cf4909399be2d418735/artifacts
+end_time: 1709116559701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2751196cd96f4cf4909399be2d418735
+run_name: treasured-rook-615
+run_uuid: 2751196cd96f4cf4909399be2d418735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709116541340
+status: 3
+tags: []
+user_id: tuanm
