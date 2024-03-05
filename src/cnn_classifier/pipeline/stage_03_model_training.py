@@ -2,7 +2,7 @@ from cnn_classifier.config.configuration import ConfigurationManager
 from cnn_classifier.components.model_training import Training
 from cnn_classifier import logger   
 
-STAGE_NAME="Traininge"
+STAGE_NAME="Training"
 
 class ModelTrainingPipeline:
     def __init__(self):

@@ -21,11 +21,14 @@ class PredictionPipeline:
         test_image = image.img_to_array(test_image)
         test_image = np.expand_dims(test_image, axis = 0)
         result = np.argmax(model.predict(test_image), axis=1)
-        print(result)
 
-        if result[0] == 1:
-            prediction = 'Normal'
-            return [{ "image" : prediction}]
-        else:
-            prediction = 'Adenocarcinoma Cancer'
-            return [{ "image" : prediction}]
+        # if result[0] == 1:
+        #     prediction = 'Normal'
+        #     return [{ "image" : prediction}]
+            
+        # else:
+        #     prediction = 'Adenocarcinoma Cancer'
+        #     return [{ "image" : prediction}]
+                # Map the prediction index to a label
+        prediction = 'Normal' if result[0] == 1 else 'Adenocarcinoma Cancer'
+        return {"image": prediction}
