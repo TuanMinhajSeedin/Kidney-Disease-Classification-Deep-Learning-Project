@@ -11,8 +11,8 @@
 9. MLflow (ML Ops Tool) -For Experiment tracking & Model Registration
 10.DVC(ML Ops Tool) -For Pipeline tracking & Implementation
 11.Prediction Pipeline & User App Creation
-12.Docker
-13.Final CI/CD Deployment on AWS
+12.Dockerization
+
 
 
 ###################################### PROJECT FILE UPDATE ######################################

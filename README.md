@@ -29,6 +29,11 @@ pip install -r requirements.txt
 streamlit run streamlitapp.py
 ```
 
+
+# Streamlit UI
+[Click me for User App](https://kidney-tumor-identification.streamlit.app/)
+
+
 Now,
 ```bash
 open up you local host and port
