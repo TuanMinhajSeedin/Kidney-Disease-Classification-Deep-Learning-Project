@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Personal%20Project/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/881f0726406f42fc8c63cea6a738d96b/artifacts
+end_time: 1709620453748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 881f0726406f42fc8c63cea6a738d96b
+run_name: clumsy-kit-579
+run_uuid: 881f0726406f42fc8c63cea6a738d96b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709620443401
+status: 3
+tags: []
+user_id: tuanm

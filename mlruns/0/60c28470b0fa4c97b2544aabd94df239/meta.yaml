@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Personal%20Project/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/60c28470b0fa4c97b2544aabd94df239/artifacts
+end_time: 1709618683723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60c28470b0fa4c97b2544aabd94df239
+run_name: stately-shark-950
+run_uuid: 60c28470b0fa4c97b2544aabd94df239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709618669417
+status: 3
+tags: []
+user_id: tuanm
